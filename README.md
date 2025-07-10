@@ -103,7 +103,7 @@ Feel free to use, adapt, or extend this project.
 
 **Sanskriti Kumari**  
 Mentor & Head of Ops @ Naariverse  
-🔗 [LinkedIn](https://www.linkedin.com/) | 🌐 [Portfolio](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://www.linkedin.com/) | 
 
 ---
 
