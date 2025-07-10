@@ -81,9 +81,6 @@ Each query is handled in steps:
 
 ---
 
-
----
-
 ## 🔗 How to Use
 
 1. Click the **Colab badge** at the top  
