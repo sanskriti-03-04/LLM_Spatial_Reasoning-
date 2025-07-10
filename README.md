@@ -3,7 +3,7 @@
 **Natural Language ➝ Geospatial Maps with AI**  
 Chain-of-Thought Reasoning | OSM Data | Chandigarh, India
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1toB0rXBVrrAr3IdztDPO56p66CTyRfDu?usp=sharing)
 
 > 🔗 Click the badge above to run the full notebook with maps and LLM logic on Google Colab.
 
@@ -82,4 +82,5 @@ Each query is handled in steps:
 ---
 
 ## 📂 Repository Contents
+
 
