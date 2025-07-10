@@ -100,7 +100,7 @@ Feel free to use, adapt, or extend this project.
 
 **Sanskriti Kumari**  
 Mentor & Head of Ops @ Naariverse  
-🔗 [LinkedIn](https://www.linkedin.com/) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/sanskriti-kumari/) | 
 
 ---
 
