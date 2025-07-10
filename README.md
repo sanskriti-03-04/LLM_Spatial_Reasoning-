@@ -81,6 +81,39 @@ Each query is handled in steps:
 
 ---
 
-## 📂 Repository Contents
+
+---
+
+## 🔗 How to Use
+
+1. Click the **Colab badge** at the top  
+2. Follow the notebook top-down — no setup required  
+3. Try your own spatial prompts!
+
+---
+
+## 📄 License
+
+MIT License  
+Feel free to use, adapt, or extend this project.
+
+---
+
+## 👩‍💻 Author
+
+**Sanskriti Kumari**  
+Mentor & Head of Ops @ Naariverse  
+🔗 [LinkedIn](https://www.linkedin.com/) | 🌐 [Portfolio](https://your-portfolio-link.com)
+
+---
+
+## 🌱 Future Scope
+
+- Integrate real flood zone datasets (e.g., IMD shapefiles)  
+- Add satellite overlays (Sentinel/Landsat)  
+- Accept voice queries  
+- Deploy as Gradio app or web API
+
+
 
 
